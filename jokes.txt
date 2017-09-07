@@ -1,2 +1,6 @@
 Q: What's the best part about Boolean logic?
 A: Even when you're wrong, you're just a bit off!
+
+Statement: A guy went to a psychiatrist. "Doc," he said, "I keep having these alternating recurring dreams. First I'm a teepee, then I'm a wigwam, then I'm a teepee, and then I'm a wigwam. It's driving me crazy. What's wrong with me?"
+
+Punchline: The doctor replied, "It's very simple. You're two tents."
